@@ -2,10 +2,6 @@
 
 > A beginner-friendly Machine Learning project that classifies Iris flowers into 3 species using a Support Vector Machine (SVM).
 
-![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-orange?logo=scikit-learn)
-![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
-
 ---
 
 ## 📖 Table of Contents
